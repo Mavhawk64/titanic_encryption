@@ -1,0 +1,33 @@
+**The Mysterious Message of the Titans**
+
+**Background:**
+In the heart of the digital realm, there lies a secret message, encrypted and hidden within a series of cryptic texts. These texts have been discovered by the Titans, a legendary team of codebreakers and software engineers. The message, believed to be of great importance, is encoded in a way that only the sharpest minds can decipher.
+
+**The Challenge:**
+The Titans have stumbled upon a file named `Titanic_Encryption.txt`. This file contains numerous lines of text, each a jumble of numbers and random characters. The key to unlocking the message lies in extracting the hidden numbers and piecing them together.
+
+**Your Mission:**
+1. **Extract the Hidden Numbers:**
+   - Each line in `Titanic_Encryption.txt` is a mix of random characters interspersed with numbers.
+   - Your task is to write a program that reads each line and extracts all the numbers, discarding any non-numeric characters.
+
+2. **Summation of Secrets:**
+   - Once you have all the numbers from each line, add them together to form one colossal decimal number.
+   - This number holds the key to the next phase of decryption.
+
+3. **Binary Translation:**
+   - Convert the colossal decimal number into an 8-bit-padded binary sequence.
+   - Remember, each byte in this binary sequence should be separated by a space for clarity.
+
+4. **The Final Decryption:**
+   - Translate the binary sequence into ASCII characters.
+   - This will reveal the hidden message that has been waiting for the Titans.
+
+**Example:**
+Consider the following line from the file:
+`8%M0475873&30s7;4-4^J^0t6245dgnlEr783Z/q612d935U50!25]2uP6j52FrN2@N$@785+y9]5I"?j98U=708n55jb0p7J8b2`
+
+Your program should extract the numbers and then sum them with numbers from other lines to eventually reveal the hidden ASCII message.
+
+**The Reward:**
+Unwrapping the message will not only demonstrate your prowess as a Titan but also bring to light a secret that has been hidden in the digital depths. Are you ready to embark on this quest and unveil the mysteries that await?
